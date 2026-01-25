@@ -131,29 +131,29 @@ The agent will:
 
 %.% Agentic AI workflows
 
-%.% Tool calling with structured functions
+**.** Tool calling with structured functions
 
-%.% Async execution with Chainlit
+**.** Async execution with Chainlit
 
-%.% Handling breaking changes in modern AI frameworks
+**.** Handling breaking changes in modern AI frameworks
 
-%.% Real-world LLM provider integration
+**.** Real-world LLM provider integration
 
 #### Notes
 
-%.% No local ML models are required
+**.** No local ML models are required
 
-%.% Groq API handles all inference
+**.** Groq API handles all inference
 
-%.% Warnings about PyTorch / TensorFlow can be safely ignored
+**.** Warnings about PyTorch / TensorFlow can be safely ignored
 
-%.% Built using latest LlamaIndex APIs
+**.** Built using latest LlamaIndex APIs
 
 #### Future Improvements
 
-C%.% onversation memory
+**.**Conversation memory
 
-%.% Streaming responses
+**.** Streaming responses
 
 %.% Multi-agent system
 
