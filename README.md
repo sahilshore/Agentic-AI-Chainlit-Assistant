@@ -129,7 +129,7 @@ The agent will:
 
 ####  Key Concepts Demonstrated
 
-%.% Agentic AI workflows
+**.** Agentic AI workflows
 
 **.** Tool calling with structured functions
 
@@ -155,8 +155,8 @@ The agent will:
 
 **.** Streaming responses
 
-%.% Multi-agent system
+**.** Multi-agent system
 
-%.% Custom tool visualisation
+**.** Custom tool visualisation
 
-%.% FastAPI backend deployment
+**.** FastAPI backend deployment
