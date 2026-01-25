@@ -151,7 +151,7 @@ The agent will:
 
 #### Future Improvements
 
-**.**Conversation memory
+**.** Conversation memory
 
 **.** Streaming responses
 
