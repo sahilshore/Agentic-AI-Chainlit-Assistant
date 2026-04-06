@@ -33,13 +33,9 @@ This project demonstrates modern **AI agent architecture (ReAct)** with a clean 
     ▼
     Final Response → UI
     
+---
     
-
-
-    
-    ---
-    
-    ##  Tech Stack
+##  Tech Stack
     
     | Technology | Purpose |
     |---------|--------|
