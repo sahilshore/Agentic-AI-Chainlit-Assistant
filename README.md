@@ -17,23 +17,23 @@ This project demonstrates modern **AI agent architecture (ReAct)** with a clean 
 ---
 
 ## 🏗️ Architecture Overview
-
-User
-│
-▼
-Chainlit UI (Async Chat)
-│
-▼
-ReAct Agent (LlamaIndex)
-│
-├─ Reasoning (LLM)
-├─ Tool Selection
-├─ Tool Execution (Python Functions)
-│
-▼
-Final Response → UI
-
-
+    
+    User
+    │
+    ▼
+    Chainlit UI (Async Chat)
+    │
+    ▼
+    ReAct Agent (LlamaIndex)
+    │
+    ├─ Reasoning (LLM)
+    ├─ Tool Selection
+    ├─ Tool Execution (Python Functions)
+    │
+    ▼
+    Final Response → UI
+    
+    
 
 
     
@@ -53,14 +53,14 @@ Final Response → UI
     ---
 
 ##  Project Structure
-
-agentic-ai-chainlit-assistant/
-│
-├── app_chainlit.py # Main Chainlit application
-├── requirements.txt # Python dependencies
-├── chainlit.md # Chainlit UI config
-├── .gitignore
-└── README.md
+    
+    agentic-ai-chainlit-assistant/
+    │
+    ├── app_chainlit.py # Main Chainlit application
+    ├── requirements.txt # Python dependencies
+    ├── chainlit.md # Chainlit UI config
+    ├── .gitignore
+    └── README.md
 
 
 ---
